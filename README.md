@@ -18,8 +18,8 @@ This notebook contains the year-round data analysis and processing workflow, cap
 - **Purpose**: Ensures that the environment is ready for data manipulation and analysis.
 
 ### 2. Data Loading and Inspection
-- **Description**: Loads the data from a specified source (likely CSV or JSON in your case) and previews it for structural integrity.
-- **Purpose**: Provides an initial understanding of the data format, column names, and basic statistics.
+- **Description**: Loaded the data from the CSV and previewed it for structural integrity.
+- **Purpose**: Provided an initial understanding of the data format, column names, and basic statistics.
 
 ### 3. Data Cleaning and Preprocessing
 - **Description**: Handles missing values, data type adjustments, and any transformations required to prepare data for analysis.
