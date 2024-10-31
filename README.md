@@ -50,5 +50,5 @@ To run this notebook, you will need:
 2. Run each cell in sequence to perform the full analysis.
 
 ## Author
-Created by Ryan (project for OSU AI Bootcamp).
+Ryan Donegan (project for OSU AI Bootcamp).
 
