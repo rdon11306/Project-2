@@ -1,7 +1,7 @@
  ALL_YEAR_DATA - Ryan Copy.ipynb
 
 ## Overview
-This notebook contains the year-round data analysis and processing workflow, capturing data handling, cleaning, analysis, and visualization steps essential for understanding trends and patterns in the data. It’s a structured framework for analyzing comprehensive datasets and includes useful methods to preprocess and visualize information efficiently.
+The goal of this project is to develop a machine learning model that analyzes stock market data to uncover trends and insights. This project leverages historical data of Stock Market Sectors/Sub-Sectors from 2020-2024 to better understand market behavior during significant periods, such as the COVID-19 pandemic and the subsequent recovery.
 
 ## Table of Contents
 1. [Setup and Libraries](#setup-and-libraries)
